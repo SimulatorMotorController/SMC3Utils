@@ -2,9 +2,9 @@
 
 ## Installation
 
-Simply unzip the SMC3Utils (attached) into a directory of your choice and run from there.
+Simply clone or [download](https://github.com/SimulatorMotorController/SMC3Utils/archive/master.zip) SMC3Utils into a directory of your choice and run from there.
 
-Edit the SMCUtils.ini file with notepad or a text editor to setup your serial comm port used to connect to Arduino.
+Edit the SMCUtils.ini file with notepad or a text editor to setup your serial com port used to connect to Arduino.
 
 ## Tuning Parameters
 
